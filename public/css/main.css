@@ -2791,19 +2791,19 @@ header .navbar-expand .navbar-brand img {
 }
 
 .full-image[data-mask="90"] {
-    opacity: 0.1;
+    opacity: 0.6;
 }
 
 .full-image[data-mask="80"] {
-    opacity: 0.2;
+    opacity: 0.6;
 }
 
 .full-image[data-mask="70"] {
-    opacity: 0.3;
+    opacity: 0.6;
 }
 
 .full-image[data-mask="60"] {
-    opacity: 0.4;
+    opacity: 0.6;
 }
 
 .full-image[data-mask="50"] {
@@ -4287,4 +4287,19 @@ footer .copyright a:not(.btn) {
 #about1:hover{
     box-shadow: 2px 2px 10px #fbdf70;
     transition: 1s;
+}
+#ab1{
+    box-shadow: 2px 2px 10px #000000;
+}
+#cd1{
+    box-shadow: 2px 2px 10px #fbdf70 ;
+    padding: 40px 40px 40px 40px;
+    margin: 0px 0px 0px 0px;
+    transition: 1s;
+}
+#ic1{
+    transition: 1s;
+}
+#ic1:hover{
+    transform: rotate(360deg);
 }
