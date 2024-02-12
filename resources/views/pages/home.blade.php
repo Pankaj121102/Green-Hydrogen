@@ -192,51 +192,28 @@
                     <div class="col-12 col-md-6 col-lg-4 item">
                         <div class="card featured">
                             <i class="icon icon-globe"></i>
-                            <h4>Property Acquisition</h4>
-                            <p>Entrust Theorem Realty 91 with your property search. Our expert team meticulously identifies opportunities aligned with your preferences and investment goals.</p>
+                            <h4>Residential Development</h4>
+                            <p>Immerse yourself in the charm of our thoughtfully designed residential projects. From contemporary apartments to spacious villas, our residential developments....</p>
                             <a href="page-single-service-1.html"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
                         <div class="card">
                             <i class="icon icon-basket"></i>
-                            <h4>Sales and Listing Services</h4>
-                            <p>Facilitate your property sales with Theorem Realty 91's dedicated listing services. We craft compelling listings, market your property strategically</p>
+                            <h4>Commercial Spaces</h4>
+                            <p>Elevate your business with our strategically located commercial properties. Whether you need a modern office space or a retail storefront,  we specialize in creating....</p>
                             <a href="page-single-service-1.html"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
                         <div class="card">
                             <i class="icon icon-screen-smartphone"></i>
-                            <h4>Market Insights and Research</h4>
-                            <p>Stay ahead with Theorem Realty 91's market insights. Our research team provides up-to-date analyses, trends, and forecasts</p>
+                            <h4>Land Acquisition and Development</h4>
+                            <p>Unlock the potential of your land with our expert land acquisition and development services. From identifying prime locations to implementing...</p>
                             <a href="page-single-service-1.html"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
-                            <i class="icon icon-layers"></i>
-                            <h4>Investment Consultations</h4>
-                            <p>Navigate the complexities of real estate investments with our tailored consultations. Theorem Realty 91 offers in-depth market analyses, risk assessments</p>
-                            <a href="page-single-service-1.html"><i class="btn-icon icon-arrow-right-circle"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card">
-                            <i class="icon icon-chart"></i>
-                            <h4>Property Management</h4>
-                            <p>Simplify property ownership with our comprehensive management services. From tenant acquisition and lease agreements to maintenance and financial</p>
-                            <a href="page-single-service-1.html"><i class="btn-icon icon-arrow-right-circle"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 item">
-                        <div class="card featured">
-                            <i class="icon icon-bulb"></i>
-                            <h4>Consultancy for Developers</h4>
-                            <p>Developers benefit from our consultancy services, gaining strategic insights for project planning, market positioning,sales</p>
-                            <a href="page-single-service-1.html"><i class="btn-icon icon-arrow-right-circle"></i></a>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </section>

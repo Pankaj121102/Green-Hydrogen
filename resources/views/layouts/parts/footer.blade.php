@@ -10,14 +10,13 @@
                     <div class="branding col-12 p-3 text-center text-lg-left item">
                         <div class="brand">
                             <a href="/" class="logo">
-                                Leverage.                                 
-                                <!-- 
-                                    Custom Logo
-                                    <img src="assets/images/logo.svg" alt="Leverage">
-                                -->
+                                                                 
+                                
+                                    <img src="/images/logo.png" alt="Leverage">
+                                
                             </a>
                         </div>
-                        <p>Authentic and innovative.<br>Built to the smallest detail<br>with a focus on usability<br>and performance.</p>
+                        <p>Welcome to Theorem Realty 91, where we transform real <br>estate aspirations into <br>tangible realities.<br>Join us on this journey.</p>
                         <ul class="navbar-nav social share-list mt-0 ml-auto">
                             <li class="nav-item">
                                 <a href="#" class="nav-link"><i class="icon-social-instagram ml-0"></i></a>
@@ -28,9 +27,7 @@
                             <li class="nav-item">
                                 <a href="#" class="nav-link"><i class="icon-social-linkedin"></i></a>
                             </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link"><i class="icon-social-twitter"></i></a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -67,24 +64,24 @@
                         <h4 class="title">Our Services</h4>
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a href="#" class="nav-link">Website Development</a>
+                                <a href="residential" class="nav-link">Residential Development</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">Building Applications</a>
+                                <a href="commercial" class="nav-link">Commercial Spaces</a>
+                            </li>
+                            <!-- <li class="nav-item">
+                                <a href="#" class="nav-link">Land Acquisition and Development</a>
+                            </li> -->
+                            <li class="nav-item">
+                                <a href="#" class="nav-link">Consultation and Advisory</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">SEO & Digital Marketing</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">Branding and Identity</a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">Digital Images & Videos</a>
+                                <a href="#" class="nav-link">Project Management</a>
                             </li>
                         </ul>
                     </div>
                     <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
-                        <h4 class="title">Popular Tags</h4>
+                        <h4 class="title">Our Projects</h4>
                         <a href="#" class="badge tag">Mobile</a>
                         <a href="#" class="badge tag">Development</a>
                         <a href="#" class="badge tag">Technology</a>
@@ -104,14 +101,11 @@
 <section id="copyright" class="p-3 copyright">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-6 p-3 text-center text-lg-left">
-                <p>Enjoy the low price. We are tracking any intention of piracy.</p>
-                <!--
-                    Suggestion: Replace the text above with a description of your website.
-                 -->
-            </div>
-            <div class="col-12 col-md-6 p-3 text-center text-lg-right">
-                <p>© 2021 Leverage is Proudly Powered by <a href="https://codings.dev" target="_blank">Codings</a>.</p>
+             
+            <div class="col-12 col-md-6 p-3 text-center text-lg-center col-lg-12">
+                <p>Copyright © 2024 Keshavam Vastu . Developed and Manitained By 
+
+<a href="https://bluebraintech.com" target="_blank">Blue Brain Technologies Pvt. Ltd.</a>.</p>
             </div>
         </div>
     </div>
