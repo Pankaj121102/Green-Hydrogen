@@ -76,7 +76,7 @@
                             <img src="images/sc3.png">
                             <h4>Land Acquisition and Development</h4>
                             <p>Unlock the potential of your land with our expert land acquisition and development services. From identifying prime locations to implementing sustainable development practices, we guide you through every step of the process.</p>
-                            <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                            <a href=""><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
@@ -84,7 +84,7 @@
                             <img src="images/sc4.png">
                             <h4>Consultation and <br>Advisory</h4>
                             <p>Our team of experienced real estate professionals is here to provide personalized consultation and advisory services. From market analysis to investment strategies, we help you make informed decisions for a secure journey.</p>
-                            <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                            <a href="consultation"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
@@ -92,7 +92,7 @@
                             <img src="images/sc5.png">
                             <h4>Interior Design and Customization</h4>
                             <p>Tailor your living or working space to your unique tastes with our interior design and customization services. We collaborate with skilled designers to bring your vision to life, ensuring that your space is a true reflection of your lifestyle.</p>
-                            <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                            <a href="interior"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
@@ -100,7 +100,7 @@
                             <img src="images/sc6.png">
                             <h4>Project<br> Management</h4>
                             <p>Leave the details to us. Our project management team oversees every aspect of development, ensuring timely execution, cost-effectiveness, and the highest standards of <br>quality.</p>
-                            <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                            <a href="management"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                 </div>
