@@ -60,7 +60,7 @@
                         <img src="images/sc1.png">
                             <h4>Residential <br>Development</h4>
                             <p>Immerse yourself in the charm of our thoughtfully designed residential projects. From contemporary apartments to spacious villas, our residential developments are crafted to provide comfort, style, and a sense of community.</p>
-                            <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                            <a href="residential"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6  col-lg-4 item">
@@ -68,7 +68,7 @@
                             <img src="images/sc2.png">
                             <h4>Commercial <br>Spaces</h4>
                             <p>Elevate your business with our strategically located commercial properties. Whether you need a modern office space or a retail storefront, we specialize in creating environments that foster <br>productivity and<br> success.</p>
-                            <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                            <a href="commercial"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">
@@ -76,7 +76,7 @@
                             <img src="images/sc3.png">
                             <h4>Land Acquisition and Development</h4>
                             <p>Unlock the potential of your land with our expert land acquisition and development services. From identifying prime locations to implementing sustainable development practices, we guide you through every step of the process.</p>
-                            <a href=""><i class="btn-icon icon-arrow-right-circle"></i></a>
+                            <a href="land"><i class="btn-icon icon-arrow-right-circle"></i></a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 item">

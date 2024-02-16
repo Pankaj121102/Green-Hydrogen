@@ -22,7 +22,7 @@
                     <!-- Item 1 -->
                     <div class="swiper-slide slide-center">
                         
-                        <img src="images/sr3.jpg" class="full-image" data-mask="30">
+                        <img src="images/sr3.jpeg" class="full-image" data-mask="30">
                         
                         <div class="slide-content row text-center">
                             <div class="col-12 mx-auto inner">
@@ -95,39 +95,39 @@ Our commercial spaces are strategically located, ensuring visibility and accessi
                                 <div class="item widget-services">
                                     <ul class="list-group list-group-flush widget-services">
                                         <li class="list-group-item">
-                                            <a href="#">
+                                            <a href="residential">
                                                 <i class="icon icon-globe"></i>
                                                 <h5>Residential Development</h5>
                                             </a>
                                         </li>
                                         <li class="list-group-item">
-                                            <a href="#">
+                                            <a href="commercial">
                                                 <i class="icon icon-basket"></i>
                                                 <h5>Commercial
 Spaces</h5>
                                             </a>
                                         </li>
                                         <li class="list-group-item">
-                                            <a href="#">
+                                            <a href="land">
                                                 <i class="icon icon-screen-smartphone"></i>
                                                 <h5>Land Acquisition and Development</h5>
                                             </a>
                                         </li>
                                         <li class="list-group-item">
-                                            <a href="#">
+                                            <a href="consultation">
                                                 <i class="icon icon-layers"></i>
                                                 <h5>Consultation and
 Advisory</h5>
                                             </a>
                                         </li>
                                         <li class="list-group-item">
-                                            <a href="#">
+                                            <a href="interior">
                                                 <i class="icon icon-chart"></i>
                                                 <h5>Interior Design and Customization</h5>
                                             </a>
                                         </li>
                                         <li class="list-group-item">
-                                            <a href="#">
+                                            <a href="management">
                                                 <i class="icon icon-bulb"></i>
                                                 <h5>Project
 Management</h5>
